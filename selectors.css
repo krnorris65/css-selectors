@@ -42,7 +42,7 @@ a.disabled {
     border-radius: 10px;
 }
 
-.promo, .promo > span {
+.promo {
     font-weight: bold;
     color: gold;
 }
