@@ -12,9 +12,10 @@ header li {
     color: grey;
 }
 
-a.disabled {
+a.disabled, a .disabled {
     color: purple;
 }
+
 
 .active {
     color: yellow;
